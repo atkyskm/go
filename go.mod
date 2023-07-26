@@ -1,4 +1,4 @@
-module github.com/YOU-SHOULD-KNOW-ME/go
+module github.com/atkyskm/go
 
 
 go 1.20
